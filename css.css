@@ -1,0 +1,19 @@
+h1{
+    color:rgb(247, 41, 4);text-align: center;
+    font-size: 90px; 
+    
+}
+body{
+    background-color: rgb(59, 247, 247);
+}
+.intro{
+    background-color:red;  
+    color:white;  
+    padding:4px;  
+    text-align:center; 
+}
+#mark{
+    background-color:red;  
+    color:white;  
+    padding:4px;  
+}
