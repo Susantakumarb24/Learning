@@ -7,7 +7,7 @@ function off(){
 
 
  function welcome() {
-          var person = alert(prompt("Please enter your name"));
+          var person = prompt("Please enter your name");
           if (person != null) {
             document.getElementById("welcome").innerHTML =
             "Hello " + person + "! Welcome to Susant's Webpage";
