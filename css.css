@@ -4,7 +4,7 @@ h1{
     
 }
 body{
-    background-color: rgb(59, 247, 247);
+    background-color: rgb(255, 255, 255);
 }
 .intro{
     background-color:red;  
@@ -13,7 +13,7 @@ body{
     text-align:center; 
 }
 #mark{
-    background-color:red;  
+    background-color:crimson;  
     color:white;  
     padding:4px;  
 }
@@ -23,6 +23,17 @@ table, th, td {
     padding: 18px;
     text-align: center;
 }
-#tr1{
-    background-color: firebrick;
+tr{
+    background-color: rgb(76, 245, 245);
+    font-size: 110%;
+}
+th{
+    background-color: rgb(243, 28, 28);
+    font-size: 150%;
+}
+#data{
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    font-size: 120%;
 }
